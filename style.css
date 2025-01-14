@@ -42,3 +42,12 @@ body {
   button:hover {
     background-color: #b52b57;
   }
+
+ .spotify-container {
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  .spotify-container iframe {
+    margin: 10px auto;
+  }
